@@ -1,7 +1,7 @@
 <h1 align="center">Halo 👋, Saya Muhamad Fajar Sidik</h1>
 
 <h3 align="center">
-Web & Mobile Developer dari Indonesia 🇮🇩
+Web & Mobile Developer ( fullstack)
 </h3>
 
 <p align="center">
