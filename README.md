@@ -30,35 +30,7 @@
 
 ---
 
-## 👨‍💻 Tentang Saya
 
-<pre>
-const muhamadFajar = {
-    nama: "Muhamad Fajar Sidik",
-    username: "mu229",
-    lokasi: "Indonesia 🇮🇩",
-    bidang: [
-        "Web Development",
-        "Mobile Development"
-    ],
-    teknologi: [
-        "Laravel",
-        "Flutter",
-        "Kotlin"
-    ],
-    proyekSaatIni: "Sistem Pakar Diagnosis Penyakit ISPA",
-    motto: "I Love Programming"
-};
-</pre>
-
-- 🔭 Sedang mengembangkan **Sistem Pakar Diagnosis Penyakit ISPA**
-- 🌱 Sedang mempelajari **Laravel, Flutter, dan Kotlin**
-- 🌐 Tertarik pada pengembangan aplikasi **Web**
-- 📱 Tertarik pada pengembangan aplikasi **Mobile**
-- 🎯 Terus meningkatkan kemampuan pemrograman
-- ⚡ Motto: **I Love Programming**
-
----
 
 ## 🛠️ Teknologi dan Tools
 
