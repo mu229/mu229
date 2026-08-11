@@ -1,21 +1,34 @@
-<!-- HEADER ANIMASI -->
+<!-- PROFIL -->
 <p align="center">
   <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:0057FF&height=220&section=header&text=Muhamad%20Fajar%20Sidik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20%26%20Mobile%20Developer&descAlignY=55&descSize=20"
+    src="https://github.com/mu229.png?size=200"
+    width="160"
+    alt="Foto Muhamad Fajar Sidik"
   />
 </p>
 
-<!-- TEKS MENGETIK -->
+<h1 align="center">Halo 👋, Saya Muhamad Fajar Sidik</h1>
+
+<h3 align="center">Web & Mobile Developer dari Indonesia 🇮🇩</h3>
+
+<!-- ANIMASI MENGETIK -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Halo%2C+saya+Muhamad+Fajar+Sidik+%F0%9F%91%8B;Web+dan+Mobile+Developer;Laravel+%7C+Flutter+%7C+Kotlin;Selalu+belajar+teknologi+baru+%F0%9F%9A%80"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Web+Developer+%F0%9F%8C%90;Mobile+Developer+%F0%9F%93%B1;Laravel+%7C+Flutter+%7C+Kotlin;Terus+Belajar+Teknologi+Baru+%F0%9F%9A%80;I+Love+Programming+%E2%9D%A4%EF%B8%8F"
+    alt="Animasi mengetik"
   />
 </p>
 
+<!-- PENGUNJUNG DAN FOLLOWERS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mu229&label=Pengunjung%20Profil&color=0057ff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/mu229?label=Followers&style=for-the-badge&color=00a8e8" />
+  <img
+    src="https://komarev.com/ghpvc/?username=mu229&label=Pengunjung%20Profil&color=006aff&style=for-the-badge"
+    alt="Jumlah pengunjung"
+  />
+  <img
+    src="https://img.shields.io/github/followers/mu229?label=Followers&style=for-the-badge&color=00a8e8"
+    alt="Jumlah followers"
+  />
 </p>
 
 ---
@@ -25,9 +38,17 @@
 ```javascript
 const muhamadFajar = {
     nama: "Muhamad Fajar Sidik",
+    username: "mu229",
     lokasi: "Indonesia 🇮🇩",
-    bidang: ["Web Development", "Mobile Development"],
-    sedangBelajar: ["Laravel", "Flutter", "Kotlin"],
+    bidang: [
+        "Web Development",
+        "Mobile Development"
+    ],
+    teknologi: [
+        "Laravel",
+        "Flutter",
+        "Kotlin"
+    ],
     proyekSaatIni: "Sistem Pakar Diagnosis Penyakit ISPA",
     motto: "I Love Programming"
 };
