@@ -2,37 +2,46 @@
   <img
     src="https://github.com/mu229.png?size=200"
     width="160"
-    alt="Foto Muhamad Fajar Sidik"
+    alt="Muhamad Fajar Sidik"
   />
 </p>
 
-<h1 align="center">Halo 👋, Saya Muhamad Fajar Sidik</h1>
+<h1 align="center">Hi 👋, I'm Muhamad Fajar Sidik</h1>
 
-<h3 align="center">Web & Mobile Developer dari Indonesia 🇮🇩</h3>
+<h3 align="center">Web & Mobile Developer from Indonesia 🇮🇩</h3>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Web+Developer+%F0%9F%8C%90;Mobile+Developer+%F0%9F%93%B1;Laravel+%7C+Flutter+%7C+Kotlin;Terus+Belajar+Teknologi+Baru+%F0%9F%9A%80;I+Love+Programming+%E2%9D%A4%EF%B8%8F"
-    alt="Animasi mengetik"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Web+Developer+%F0%9F%8C%90;Mobile+Developer+%F0%9F%93%B1;Laravel+%7C+Flutter+%7C+Kotlin;Always+Learning+New+Technologies+%F0%9F%9A%80;I+Love+Programming+%E2%9D%A4%EF%B8%8F"
+    alt="Typing animation"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=mu229&label=Pengunjung%20Profil&color=006aff&style=for-the-badge"
-    alt="Pengunjung profil"
+    src="https://komarev.com/ghpvc/?username=mu229&label=Profile%20Views&color=006aff&style=for-the-badge"
+    alt="Profile views"
   />
   <img
     src="https://img.shields.io/github/followers/mu229?label=Followers&style=for-the-badge&color=00a8e8"
-    alt="Followers"
+    alt="GitHub followers"
   />
 </p>
 
 ---
 
+## 👨‍💻 About Me
 
+- 🔭 I’m currently developing an **Expert System for Diagnosing Respiratory Infections**
+- 🌱 I’m currently learning **Laravel, Flutter, and Kotlin**
+- 🌐 I’m interested in **Web Development**
+- 📱 I’m interested in **Mobile Application Development**
+- 🎯 I’m continuously improving my programming skills
+- ⚡ Motto: **I Love Programming**
 
-## 🛠️ Teknologi dan Tools
+---
+
+## 🛠️ Technologies and Tools
 
 ### 🌐 Web Development
 
@@ -60,24 +69,24 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-### 🔧 Tools
+### 🔧 Development Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
 </p>
 
 ---
 
-## 🚀 Proyek Unggulan
+## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🩺 Sistem Pakar ISPA</h3>
+      <h3 align="center">🩺 Respiratory Infection Expert System</h3>
       <p align="center">
-        Sistem pakar berbasis web untuk membantu melakukan diagnosis awal penyakit ISPA.
+        A web-based expert system designed to assist with the early diagnosis of respiratory infections.
       </p>
       <p align="center">
         <strong>Laravel • PHP • MySQL • Blade</strong>
@@ -85,16 +94,16 @@
       <p align="center">
         <a href="https://github.com/mu229/sistem-pakar-ispa">
           <img
-            src="https://img.shields.io/badge/Lihat_Repository-181717?style=for-the-badge&logo=github&logoColor=white"
-            alt="Repository Sistem Pakar ISPA"
+            src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+            alt="View respiratory infection expert system repository"
           />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📱 Flutter Mobile</h3>
+      <h3 align="center">📱 Flutter Mobile Application</h3>
       <p align="center">
-        Proyek pengembangan aplikasi mobile menggunakan Flutter dan Dart.
+        A mobile application project developed using Flutter and the Dart programming language.
       </p>
       <p align="center">
         <strong>Flutter • Dart • Android</strong>
@@ -102,8 +111,8 @@
       <p align="center">
         <a href="https://github.com/mu229/fluteer-projek-mobile-">
           <img
-            src="https://img.shields.io/badge/Lihat_Repository-02569B?style=for-the-badge&logo=flutter&logoColor=white"
-            alt="Repository Flutter"
+            src="https://img.shields.io/badge/View_Repository-02569B?style=for-the-badge&logo=flutter&logoColor=white"
+            alt="View Flutter repository"
           />
         </a>
       </p>
@@ -114,52 +123,61 @@
 <p align="center">
   <a href="https://github.com/mu229?tab=repositories">
     <img
-      src="https://img.shields.io/badge/Lihat_Semua_Proyek-006AFF?style=for-the-badge&logo=github&logoColor=white"
-      alt="Semua proyek"
+      src="https://img.shields.io/badge/View_All_Projects-006AFF?style=for-the-badge&logo=github&logoColor=white"
+      alt="View all projects"
     />
   </a>
 </p>
 
 ---
 
-## 📈 Fokus Saat Ini
+## 📈 Current Focus
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Fokus-Web_Development-006AFF?style=for-the-badge" alt="Web Development" />
-  <img src="https://img.shields.io/badge/Fokus-Mobile_Development-00A8E8?style=for-the-badge" alt="Mobile Development" />
-  <img src="https://img.shields.io/badge/Status-Open_to_Learn-00C853?style=for-the-badge" alt="Open to Learn" />
+  <img
+    src="https://img.shields.io/badge/Focus-Web_Development-006AFF?style=for-the-badge"
+    alt="Web Development"
+  />
+  <img
+    src="https://img.shields.io/badge/Focus-Mobile_Development-00A8E8?style=for-the-badge"
+    alt="Mobile Development"
+  />
+  <img
+    src="https://img.shields.io/badge/Status-Open_to_Learning-00C853?style=for-the-badge"
+    alt="Open to Learning"
+  />
 </p>
 
 ---
 
-## 🤝 Terhubung dengan Saya
+## 🤝 Connect with Me
 
 <p align="center">
   <a href="https://github.com/mu229">
     <img
       src="https://img.shields.io/badge/GitHub-mu229-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
+      alt="GitHub profile"
     />
   </a>
   <a href="https://www.instagram.com/muhfajars19">
     <img
       src="https://img.shields.io/badge/Instagram-muhfajars19-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
+      alt="Instagram profile"
     />
   </a>
 </p>
 
 ---
 
-<h3 align="center">Terima kasih telah mengunjungi profil saya 👨‍💻</h3>
+<h3 align="center">Thank You for Visiting My Profile 👨‍💻</h3>
 
 <p align="center">
-  <strong>“Terus belajar, terus mencoba, dan jangan takut membuat kesalahan.”</strong>
+  <strong>“Keep learning, keep trying, and never be afraid of making mistakes.”</strong>
 </p>
 
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Happy+Coding!+%F0%9F%92%BB;See+You+Again!+%F0%9F%91%8B"
-    alt="Pesan penutup"
+    alt="Closing animation"
   />
 </p>
